@@ -54,7 +54,7 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/Zypher2kk">
+  <a href="https://zypher2k.netlify.app">
     <img src="https://img.shields.io/badge/Visitar%20zypher2k-50CF01?style=for-the-badge&logo=github" alt="Git zypher">
   </a>
 </div>
